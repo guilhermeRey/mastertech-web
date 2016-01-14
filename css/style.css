@@ -1,0 +1,15 @@
+body {
+  padding-top: 80px;
+}
+
+.borda-vermelha {
+  border: 1px dashed red;
+}
+
+.primeira-linha {
+  margin-bottom: 10px;
+}
+
+#lista-dinamica {
+  
+}
